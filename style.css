@@ -1,0 +1,37 @@
+body {
+  background: antiquewhite;
+}
+p {
+  color: darkblue;
+  font-family: cursive;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: center;
+  color: cornflowerblue;
+}
+ul {
+  border: dotted;
+  text-align: center;
+  font-family: monospace;
+}
+ol{
+  font-family: sans-serif;
+  border: dotted;
+  font-size: 20px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+.pop{
+  color: brown
+}
+.rap{
+  color: blueviolet;
+}
+.rock{
+  color: darkslateblue;
+}
